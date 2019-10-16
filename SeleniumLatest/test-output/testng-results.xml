@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13625" started-at="2019-10-16T11:34:10Z" finished-at="2019-10-16T11:34:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13625" started-at="2019-10-16T11:34:10Z" finished-at="2019-10-16T11:34:24Z">
+      <class name="TestCases.TabLaunchTest">
+        <test-method status="PASS" signature="addTest()[pri:1, instance:TestCases.TabLaunchTest@5034c75a]" name="addTest" duration-ms="10" started-at="2019-10-16T17:04:10Z" finished-at="2019-10-16T17:04:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="launchBrowser()[pri:2, instance:TestCases.TabLaunchTest@5034c75a]" name="launchBrowser" duration-ms="13585" started-at="2019-10-16T17:04:10Z" finished-at="2019-10-16T17:04:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+      </class> <!-- TestCases.TabLaunchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
