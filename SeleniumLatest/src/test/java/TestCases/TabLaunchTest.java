@@ -17,6 +17,7 @@ public void addTest()
 	System.out.println("add mehod");
 	System.out.println("test2");
 	System.out.println("test3");
+	System.out.println("test4");
 }
 
 @Test(priority=2)
